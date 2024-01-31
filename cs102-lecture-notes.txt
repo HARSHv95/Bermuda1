@@ -7,5 +7,4 @@ git pull
 I have learned these git commands in todays lecture.
 Today, On this historic day, we celebrate death anniversary of Mahatma Gandhi.
 My name is Harsh Dinesh Bhoir and I am pursuing my Btech in Computer Science from Indian Institute of Technology.
-The TA in grey dress is looking very gorgeous today
 Bye..
